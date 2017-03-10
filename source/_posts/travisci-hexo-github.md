@@ -22,6 +22,8 @@ Build only if .travis.yml is present：是只有在.travis.yml文件中配置的
 
 Build pushes：当推送完这个分支后开始构建
 
+<!-- more -->
+
 ### 在GitHub上生成Access Token
 
 Setting-->Personal access tokens-->Generate new token

@@ -12,6 +12,8 @@ comments: true
 #### 方法一：
 由于pip是针对python2使用的，因此在Python3里面需要使用pip3。  
 
+<!-- more -->
+
 #### 方法二：
 也可以建立一个新的链接来指向pip3：  
 

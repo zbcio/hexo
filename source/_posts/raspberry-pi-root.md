@@ -12,9 +12,9 @@ comments: true
 
 debian里root账户默认没有密码，但账户锁定。
 
-当需要root权限时，由默认账户经由sudo执行，Raspberry pi 系统中的Raspbian
+当需要root权限时，由默认账户经由sudo执行，Raspberry pi系统中的Raspbian默认用户是pi 密码为raspberry
 
-默认用户是pi 密码为raspberry
+<!-- more -->
 
 重新开启root账号，可由pi用户登录后，在命令行下执行
 

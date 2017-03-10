@@ -21,6 +21,8 @@ comments: true
 
 下载官方提供的Raspberry Pi专用Debian——Raspbian，将下载后的.zip文件解压，得到一个.img文件。打开Win32DiskImager，选择.img文件和SD卡，点击Write按钮开始安装系统到SD卡上。
 
+<!-- more -->
+
 ### 启动
 
 安装完成后，把SD卡插到树莓派的卡槽上，接上电源，网线（连接路由器），树莓派会自动启动。
