@@ -12,7 +12,7 @@ comments: true
 
 ### Travis CI
 
-首先，要使用Travis CI，必须要GIthub账号。在[Travis CI官网](travis-ci.com)使用GitHub账号登录。
+首先，要使用Travis CI，必须要GIthub账号。在[Travis CI官网](https://travis-ci.org)使用GitHub账号登录。
 
 登录后创建一个新的Repositories，选择并开启有Hexo源码的仓库。
 
@@ -37,35 +37,37 @@ Setting-->Personal access tokens-->Generate new token
 
 接下来在源代码的根目录添加.travis.yml配置文件，内容如下：
 
-  language: node_js
-  node_js: stable
-  
-  # S: Build Lifecycle
-  install:
-    - npm install
-  
-  
-  #before_script:
-   # - npm install -g gulp
-  
-  script:
-    - hexo g
-  
-  after_script:
-    - cd ./public
-    - git init
-    - git config user.name "xxx"
-    - git config user.email "xxx@gmail.com"
-    - git add .
-    - git commit -m "Update docs"
-    - git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:master
-  # E: Build LifeCycle
-  
-  branches:
-    only:
-      - master
-  env:
-   global:
-     - GH_REF: github.com/xxx/xxx.github.io.git
+    language: node_js
+    node_js: stable
+    
+    # S: Build Lifecycle
+    install:
+      - npm install
+    
+    
+    #before_script:
+     # - npm install -g gulp
+    
+    script:
+      - hexo g
+    
+    after_script:
+      - cd ./public
+      - git init
+      - git config user.name "xxx"
+      - git config user.email "xxx@gmail.com"
+      - git add .
+      - git commit -m "Update docs"
+      - git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:master
+    # E: Build LifeCycle
+    
+    branches:
+      only:
+        - master
+    env:
+     global:
+       - GH_REF: github.com/xxx/xxx.github.io.git
 
 把xxx替换为自己的名字或者账号即可。
+
+参考：[手把手教你使用Travis CI自动部署你的Hexo博客到Github上](http://blog.csdn.net/woblog/article/details/51319364)
