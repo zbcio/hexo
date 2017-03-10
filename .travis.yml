@@ -24,7 +24,7 @@ after_script:
 
 branches:
   only:
-    - blog-source
+    - master
 env:
  global:
-   - GH_REF: github.com/zbcio/hexo
+   - GH_REF: github.com/zbcio/zbcio.github.io.git
