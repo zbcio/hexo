@@ -1,10 +1,10 @@
 ---
 title:  "树莓派启用root账户"
 date: "2017-03-09 11:03:55"
-tags: "树莓派"
 categories: 
 - 技术
 - 硬件
+tags: "树莓派"
 comments: true
 ---
 

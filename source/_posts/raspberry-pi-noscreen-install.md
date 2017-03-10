@@ -1,10 +1,10 @@
 ---
 title:  "树莓派无显示器安装步骤"
 date: "2017-03-09 10:15:00"
-tags: "树莓派"
 categories: 
 - 技术
 - 硬件
+tags: "树莓派"
 comments: true
 ---
 
