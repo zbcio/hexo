@@ -2,7 +2,7 @@
 title:  "人生什么更重要？"
 date: "2017-03-08 21:03:55"
 tags: "转载"
-categories: "闲杂"
+categories: "随笔"
 comments: true
 ---
 
