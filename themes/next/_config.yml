@@ -342,9 +342,9 @@ mathjax:
 # you can visit http://dev.duoshuo.com get duoshuo user id.
 duoshuo_info:
   ua_enable: true
-  admin_enable: false
-  user_id: 0
-  #admin_nickname: Author
+  admin_enable: true
+  user_id: 6395907179404068000
+  admin_nickname: 博主
 
 # 多说热评文章 true 或者 false
 duoshuo_hotartical: true
@@ -445,6 +445,12 @@ algolia_search:
 # Local search
 local_search:
   enable: true
+
+
+reward_comment: 坚持原创技术分享，您的支持将鼓励我继续创作！
+wechatpay: /images/wechat-reward.jpg
+alipay: /images/alipay-reward.jpg
+
 
 # External URL with BASE64 encrypt & decrypt
 # Usage: {% exturl text url "title" %}
