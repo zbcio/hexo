@@ -73,11 +73,6 @@ duoshuo_shortname: zbc
 
 baidu_analytics: 265d38f768179f112448ec05adca1224
 
-leancloud_visitors:
-  enable: true
-  app_id: Sh2ueHMQSAPuCkz7gpCI10Io-gzGzoHsz
-  app_key: jJLOhQt2PcVkyzSkb7kvnQ3N
-
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
