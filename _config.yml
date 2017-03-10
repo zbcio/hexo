@@ -73,6 +73,9 @@ duoshuo_shortname: zbc
 
 baidu_analytics: 265d38f768179f112448ec05adca1224
 
+# JiaThis 分享服务
+jiathis: true
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
