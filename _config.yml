@@ -5,8 +5,8 @@
 # Site
 title: zbc.io
 subtitle: Talk is cheap. Show me the code.
-description:
-author: zbc
+description: 临渊羡鱼，不如退而结网
+author: ByronJ
 language:
 - zh-Hans
 - en
@@ -66,6 +66,10 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: next
+
+avatar: /images/avatar.jpg
+
+duoshuo_shortname: zbc
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
