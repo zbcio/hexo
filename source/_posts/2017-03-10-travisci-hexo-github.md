@@ -9,7 +9,7 @@ tags:
 - Github
 ---
 
-在网上找了些教程，写的都不尽相同，这里只介绍Travis CI部分，默认认为已掌握Hexo和GitHub的基本使用。
+只总结了Travis CI的部分，默认认为已掌握Hexo和GitHub的基本使用。
 
 ### Travis CI
 
