@@ -1,6 +1,7 @@
 ---
 title: Java中的this的理解
 category:
+- tech
 - Java
 tags:
 - Java

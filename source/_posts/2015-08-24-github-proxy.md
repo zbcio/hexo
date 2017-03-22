@@ -1,6 +1,7 @@
 ---
 title: GitHub代理设置
 category:
+- tech
 - Github
 tags:
 - GitHub

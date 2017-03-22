@@ -1,6 +1,7 @@
 ---
 title: Apache Httpd端口转发、多域名配置
 category:
+- tech
 - Httpd
 tags:
 - Httpd

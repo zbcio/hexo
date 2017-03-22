@@ -1,6 +1,7 @@
 ---
 title: Tomcat项目路径配置
 category:
+- tech
 - Tomcat
 tags:
 - Tomcat

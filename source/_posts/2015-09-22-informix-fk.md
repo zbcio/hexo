@@ -1,6 +1,7 @@
 ---
 title: Informix关联外键
 category:
+- tech
 - Informix
 tags:
 - Informix
