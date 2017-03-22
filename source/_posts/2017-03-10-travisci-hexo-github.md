@@ -1,9 +1,8 @@
 ---
 title:  "使用Travis CI自动部署Hexo博客到Github"
-categories: 
-- 技术
-- 软件
-tags: [Travis CI,Hexo,Github]
+categories:
+- Hexo
+tags: ["Travis CI", "Hexo", "Github"]
 comments: true
 ---
 

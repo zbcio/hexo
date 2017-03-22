@@ -1,7 +1,8 @@
 ---
 title: "Linux中Python3.4.3下pip和easy_install不好使"
-category: "Python"
-tags: ["Linux", "Python"]
+category:
+- Python
+tags: ["Python", "pip", "easy_install"]
 comments: true
 ---
 

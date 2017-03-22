@@ -1,7 +1,8 @@
 ---
 title: "Linux下Python安装"
-category: "Python"
-tags: ["Linux", "Python"]
+category:
+- Python
+tags: "Python"
 comments: true
 ---
 
