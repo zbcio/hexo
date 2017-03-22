@@ -2,9 +2,7 @@
 title: "Linux下Python安装"
 date: "2015-08-06 10:15:00"
 tags: ["Linux", "Python"]
-categories: 
-- 技术
-- 软件
+category: "Python"
 comments: true
 ---
 
