@@ -1,6 +1,5 @@
 ---
 title:  "使用Travis CI自动部署Hexo博客到Github"
-date: "2017-03-10 19:52:00"
 categories: 
 - 技术
 - 软件

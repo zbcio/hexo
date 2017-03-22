@@ -1,8 +1,7 @@
 ---
 title: "Linux下Python安装"
-date: "2015-08-06 10:15:00"
-tags: ["Linux", "Python"]
 category: "Python"
+tags: ["Linux", "Python"]
 comments: true
 ---
 
