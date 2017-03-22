@@ -1,9 +1,12 @@
 ---
-title:  "使用Travis CI自动部署Hexo博客到Github"
+title:  使用Travis CI自动部署Hexo博客到Github
 categories:
+- tech
 - Hexo
-tags: ["Travis CI", "Hexo", "Github"]
-comments: true
+tags:
+- Travis CI
+- Hexo
+- Github
 ---
 
 在网上找了些教程，写的都不尽相同，这里只介绍Travis CI部分，默认认为已掌握Hexo和GitHub的基本使用。

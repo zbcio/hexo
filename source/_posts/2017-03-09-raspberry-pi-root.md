@@ -1,9 +1,10 @@
 ---
-title:  "树莓派启用root账户"
+title:  树莓派启用root账户
 categories:
+- tech
 - RaspberryPi
-tags: "树莓派"
-comments: true
+tags:
+- 树莓派
 ---
 
 树莓派使用的linux是debian系统，所以树莓派启用root和debian是相同的。

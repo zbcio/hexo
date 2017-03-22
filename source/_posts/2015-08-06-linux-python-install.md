@@ -1,9 +1,10 @@
 ---
-title: "Linux下Python安装"
+title: Linux下Python安装
 category:
+- tech
 - Python
-tags: "Python"
-comments: true
+tags:
+- Python
 ---
 
 Linux下一般都有预装Python，但是版本都较低，有时需要安装相对较高的版本。  
