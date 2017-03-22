@@ -1,5 +1,5 @@
 ---
-title:  树莓派无显示器安装步骤
+title: 树莓派无显示器安装步骤
 categories:
 - tech
 - RaspberryPi
