@@ -1,7 +1,7 @@
 ---
 title: 开源中国Maven库使用帮助
 category:
-- tech
+- 技术
 - Maven
 tags:
 - Maven

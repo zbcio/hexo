@@ -1,7 +1,7 @@
 ---
 title: 推荐一个学习Maven的博客
 category:
-- tech
+- 技术
 - Maven
 tags:
 - Maven

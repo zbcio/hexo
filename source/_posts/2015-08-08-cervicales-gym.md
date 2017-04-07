@@ -1,7 +1,7 @@
 ---
 title: 颈椎病自我运动治疗
 category:
-- other
+- 其他
 - Health
 tags:
 - 颈椎病

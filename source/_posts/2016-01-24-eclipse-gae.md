@@ -1,7 +1,7 @@
 ---
 title: 用Eclipse本地部署GAE的demo时遇到的问题
 category:
-- tech
+- 技术
 - Eclipse
 tags:
 - GAE

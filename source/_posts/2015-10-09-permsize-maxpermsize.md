@@ -1,7 +1,7 @@
 ---
 title: Xms Xmx PermSize MaxPermSize 区别
 category:
-- tech
+- 技术
 - Eclipse
 tags:
 - Eclipse

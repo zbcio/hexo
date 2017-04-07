@@ -1,7 +1,7 @@
 ---
 title: 怎么下载Spring的官方文档
 category:
-- tech
+- 技术
 - Spring
 tags:
 - Spring

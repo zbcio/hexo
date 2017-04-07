@@ -1,7 +1,7 @@
 ---
 title: Linux启动Tomcat报错：The file is absent or does not have execute permission
 category:
-- tech
+- 技术
 - Tomcat
 tags:
 - Linux

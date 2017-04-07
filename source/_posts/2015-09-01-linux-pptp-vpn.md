@@ -1,7 +1,7 @@
 ---
 title: CentOS 7.0安装搭建pptp vpn服务
 category:
-- tech
+- 技术
 - VPN
 tags:
 - VPN

@@ -1,7 +1,7 @@
 ---
 title: 在Eclipse中配置Tomcat8.5.x
 category:
-- tech
+- 技术
 - Eclipse
 tags:
 - Eclipse

@@ -1,7 +1,7 @@
 ---
 title: 树莓派启用root账户
 categories:
-- tech
+- 技术
 - RaspberryPi
 tags:
 - 树莓派

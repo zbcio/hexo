@@ -1,7 +1,7 @@
 ---
 title: 启动Django之后，外部无法访问
 category:
-- tech
+- 技术
 - Django
 tags:
 - Django

@@ -1,7 +1,7 @@
 ---
 title: Linux下Python安装
 category:
-- tech
+- 技术
 - Python
 tags:
 - Python

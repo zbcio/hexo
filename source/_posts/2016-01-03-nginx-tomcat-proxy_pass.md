@@ -1,7 +1,7 @@
 ---
 title: Nginx反向代理Tomcat
 category:
-- tech
+- 技术
 - Tomcat
 tags:
 - Nginx

@@ -1,7 +1,7 @@
 ---
 title: Parallels虚拟机下通过ssh访问Ubuntu
 category:
-- tech
+- 技术
 - Ubuntu
 tags:
 - Parallels

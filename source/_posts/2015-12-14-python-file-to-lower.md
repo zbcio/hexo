@@ -1,7 +1,7 @@
 ---
 title: 批量将文件名中的大写字母替换为小写
 category:
-- tech
+- 技术
 - Python
 tags:
 - Python

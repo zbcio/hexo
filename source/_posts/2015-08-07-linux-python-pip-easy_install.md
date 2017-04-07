@@ -1,7 +1,7 @@
 ---
 title: Linux中Python3.4.3下pip和easy_install不好使
 category:
-- tech
+- 技术
 - Python
 tags:
 - Python

@@ -1,7 +1,7 @@
 ---
 title: Maven项目在Eclipse中，Tomcat的Add And Remove找不到项目
 category:
-- tech
+- 技术
 - Eclipse
 tags:
 - Eclipse

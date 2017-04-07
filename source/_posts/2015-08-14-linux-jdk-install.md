@@ -1,7 +1,7 @@
 ---
 title: Linux安装JDK
 category:
-- tech
+- 技术
 - Java
 tags:
 - Linux

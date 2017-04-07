@@ -1,7 +1,7 @@
 ---
 title: 一个不错的学习Java和Python的网站
 category:
-- tech
+- 技术
 - Python
 tags:
 - Java

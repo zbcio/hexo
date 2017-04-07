@@ -1,7 +1,7 @@
 ---
 title: Java动态代理（JDK和CGlib）
 category:
-- tech
+- 技术
 - Java
 tags:
 - Java

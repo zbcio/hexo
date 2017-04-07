@@ -1,7 +1,7 @@
 ---
 title: virtualenv和virtualenvwrapper虚拟运行环境的使用
 category:
-- tech
+- 技术
 - Python
 tags:
 - Python

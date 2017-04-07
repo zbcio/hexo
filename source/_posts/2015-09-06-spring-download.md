@@ -1,7 +1,7 @@
 ---
 title: Spring下载地址
 category:
-- tech
+- 技术
 - Spring
 tags:
 - Spring

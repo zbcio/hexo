@@ -1,7 +1,7 @@
 ---
 title: 关于Java空格的那些事
 category:
-- tech
+- 技术
 - Java
 tags:
 - Java

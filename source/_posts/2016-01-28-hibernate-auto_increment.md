@@ -1,7 +1,7 @@
 ---
 title: Hibernate主键自增注解
 category:
-- tech
+- 技术
 - Hibernate
 tags:
 - Hibernate

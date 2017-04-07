@@ -1,7 +1,7 @@
 ---
 title: Ant-something else
 category:
-- tech
+- 技术
 - Ant
 tags:
 - Ant

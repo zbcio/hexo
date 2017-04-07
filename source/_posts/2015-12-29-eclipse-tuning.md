@@ -1,7 +1,7 @@
 ---
 title: Eclipse复制粘贴时卡顿解决办法
 category:
-- tech
+- 技术
 - Eclipse
 tags:
 - Eclipse

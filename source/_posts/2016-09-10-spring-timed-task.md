@@ -1,7 +1,7 @@
 ---
 title: 简单的Spring定时任务
 category:
-- tech
+- 技术
 - Spring
 tags:
 - Spring

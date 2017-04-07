@@ -1,7 +1,7 @@
 ---
 title: Spring3 MVC Annotaction入门（登录示例）
 category:
-- tech
+- 技术
 - Spring
 tags:
 - Spring

@@ -1,7 +1,7 @@
 ---
 title: Linux添加用户
 category:
-- tech
+- 技术
 - Linux
 tags:
 - Linux

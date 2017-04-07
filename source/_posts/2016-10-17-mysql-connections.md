@@ -1,7 +1,7 @@
 ---
 title: MySQL连接数
 category:
-- tech
+- 技术
 - MySQL
 tags:
 - MySQL

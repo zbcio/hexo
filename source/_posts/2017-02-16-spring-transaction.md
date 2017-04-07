@@ -1,7 +1,7 @@
 ---
 title: "Spring事务类型"
 category:
-- tech
+- 技术
 - Spring
 tags:
 - Spring

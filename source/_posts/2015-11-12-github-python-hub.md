@@ -1,7 +1,7 @@
 ---
 title: Github干货系列：Python 免费资源集合
 category:
-- tech
+- 技术
 - Python
 tags:
 - Python

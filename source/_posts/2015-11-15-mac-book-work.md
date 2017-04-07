@@ -1,7 +1,7 @@
 ---
 title: 高效MacBook工作环境配置
 category:
-- tech
+- 技术
 - iMac
 tags:
 - iMac

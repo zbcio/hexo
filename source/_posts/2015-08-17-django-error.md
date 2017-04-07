@@ -1,7 +1,7 @@
 ---
 title: "Django报错：ImportError: No module named 'pysqlite2'"
 category:
-- tech
+- 技术
 - Django
 tags:
 - Django

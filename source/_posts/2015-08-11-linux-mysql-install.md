@@ -1,7 +1,7 @@
 ---
 title: Linux下安装mysql
 category:
-- tech
+- 技术
 - MySQL
 tags:
 - MySQL

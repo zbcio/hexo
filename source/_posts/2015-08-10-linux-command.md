@@ -1,7 +1,7 @@
 ---
 title: Linux命令
 category:
-- tech
+- 技术
 - Linux
 tags:
 - Linux

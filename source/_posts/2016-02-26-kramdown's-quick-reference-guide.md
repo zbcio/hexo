@@ -1,7 +1,7 @@
 ---
 title: Kramdown使用向导
 category:
-- tech
+- 技术
 - Kramdown
 tags:
 - Kramdown
