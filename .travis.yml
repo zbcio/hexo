@@ -27,4 +27,4 @@ branches:
     - master
 env:
  global:
-   - GH_REF: github.com/zbcio/zbcio.github.io.git
+   - GH_REF: github.com/zbc-io/zbc-io.github.io.git
