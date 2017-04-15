@@ -1,5 +1,5 @@
 ---
-title: Spring Boot 1st: Hello World
+title: Spring Boot （一） Hello World
 categories:
 - 技术
 - Spring Boot
