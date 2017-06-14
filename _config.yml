@@ -70,11 +70,6 @@ theme: next
 
 avatar: /images/avatar.jpg
 
-duoshuo_shortname: zbc
-
-# 多说热评文章 true 或者 false
-duoshuo_hotartical: true
-
 baidu_analytics: 265d38f768179f112448ec05adca1224
 
 search:
