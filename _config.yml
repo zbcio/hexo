@@ -85,5 +85,5 @@ jiathis: true
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/zbc-io/zbc-io.github.io.git
+  repo: https://github.com/zbcio/zbcio.github.io.git
   branch: master
