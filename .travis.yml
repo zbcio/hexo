@@ -8,6 +8,7 @@ install:
 
 #before_script:
  # - npm install -g gulp
+ npm cache clean --force
 
 script:
   - hexo g
