@@ -5,12 +5,12 @@ title: "JVM运行时异常StackOverflowError和OutOfMemoryError"
 tags: "JVM"
 ---
 
-### StackOverflowError
+# StackOverflowError
 
 1. 线程请求的栈容量超过了JVM栈允许的最大容量。
 2. 线程请求的栈容量超过本地方法栈允许的最大容量。
 
-### OutOfMemoryError
+# OutOfMemoryError
 
 1. JVM栈可以动态扩展，并且扩展的动作已经尝试过，但是目前无法申请到足够的内存去完成扩展，或者在建立新的线程时没有足够的内存去创建对应的JVM栈。
 2. 实际所需的堆超过了自动内存管理系统（GC）能提供的最大容量。
