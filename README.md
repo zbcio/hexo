@@ -77,13 +77,36 @@ hexo/
 
 ---
 
-## 部署流程
+## 部署流程与 CI/CD 配置
 
 项目配置了 GitHub Actions 自动化部署流水线：
-1. 本地撰写文章并完成调试后，提交并推送至当前仓库的 `master` 分支：
-   ```bash
-   git add .
-   git commit -m "feat: 发布新文章"
-   git push origin master
-   ```
-2. GitHub Actions 将自动拉取代码、安装依赖、编译静态站点，并发布到 `zbcio.github.io` 生产仓库。
+
+### 1. 日常发布文章
+本地撰写文章并完成调试后，提交并推送至当前仓库的 `master` 分支即可自动触发构建部署：
+```bash
+git add .
+git commit -m "feat: 发布新文章"
+git push origin master
+```
+GitHub Actions 将自动拉取代码、安装依赖、编译静态站点，并推送到 `zbcio.github.io` 仓库完成发布。
+
+### 2. GitHub 部署凭证（GH_TOKEN）配置
+
+由于工作流需要跨仓库推送到 `zbcio/zbcio.github.io`，必须在当前仓库的 **Settings -> Secrets and variables -> Actions** 中配置名为 **`GH_TOKEN`** 的 Secret。
+
+可选择以下任一方式生成 Token：
+
+#### 方案 A：Classic Token（推荐，最不易踩坑）
+1. 访问 [Personal access tokens (classic)](https://github.com/settings/tokens)；
+2. 点击 **Generate new token (classic)**；
+3. **Select scopes** 中务必勾选 **`repo`**（包含所有子项，确保仓库完整读写权限）；
+4. 生成后复制 Token，添加到当前仓库的 `secrets.GH_TOKEN`。
+
+#### 方案 B：Fine-grained Token（细粒度令牌，安全性更高）
+1. 访问 [Fine-grained personal access tokens](https://github.com/settings/personal-access-tokens/new)；
+2. **Resource owner**：必须切换为目标仓库的归属方（如 `zbcio`）；
+3. **Repository access**：选择 **Only select repositories**，搜索并选中 **`zbcio.github.io`**；
+4. **Permissions**：
+   - 展开 **Repository permissions** -> 找到 **Contents**，将权限调整为 **`Access: Read and write`**；
+   - 确认 **Metadata** 为 `Read-only`（通常默认已勾选）；
+5. 生成后若处于组织中，请确保状态非 Pending 审批中，然后将其添加到当前仓库的 `secrets.GH_TOKEN`。
