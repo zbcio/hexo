@@ -14,7 +14,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://zbc.io
+url: https://zbcio.github.io
 root: /
 permalink: :lang/:category/:title/
 permalink_defaults:
@@ -78,8 +78,6 @@ search:
   format: html
   limit: 10000
 
-# JiaThis 分享服务
-jiathis: true
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
