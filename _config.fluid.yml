@@ -62,6 +62,7 @@ search:
 index:
   slogan:
     enable: true
+    text: "A journey of a thousand miles must begin with a single step"
 
 # 个人关于页
 about:

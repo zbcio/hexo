@@ -72,6 +72,9 @@ search:
   format: html
   limit: 10000
 
+sitemap:
+  path: sitemap.xml
+
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
