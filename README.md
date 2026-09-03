@@ -61,7 +61,7 @@ npx hexo s
 
 ```text
 hexo/
-├── .github/workflows/ci.yml # GitHub Actions 自动化构建部署配置
+├── .github/workflows/deploy.yml # GitHub Actions 自动化构建部署配置
 ├── .nvmrc                   # 推荐 Node.js 版本基准
 ├── _config.yml              # 站点主配置文件
 ├── package.json             # 项目依赖配置
