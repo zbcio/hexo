@@ -16,6 +16,7 @@ navbar:
     - { key: "category", link: "/categories/", icon: "iconfont icon-category-fill" }
     - { key: "tag", link: "/tags/", icon: "iconfont icon-tags-fill" }
     - { key: "about", link: "/about/", icon: "iconfont icon-user-fill" }
+    - { key: "rss", name: "RSS", link: "/atom.xml", icon: "iconfont icon-rss", target: "_blank" }
 
 # 暗色模式
 dark_mode:
