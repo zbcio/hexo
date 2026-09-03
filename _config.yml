@@ -7,9 +7,7 @@ title: ZhangBaiCheng's Programming Blog
 subtitle: Sharp tools make good work
 description: A journey of a thousand miles must begin with a single step
 author: 百成
-language:
-- zh-Hans
-- en
+language: zh-CN
 timezone:
 
 # URL
@@ -66,7 +64,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: fluid
 
 avatar: /images/avatar.jpg
 

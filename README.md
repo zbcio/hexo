@@ -1,6 +1,6 @@
 # ZhangBaiCheng's Programming Blog
 
-基于 [Hexo](https://hexo.io/) 与 [NexT](https://theme-next.js.org/) 主题搭建的个人技术博客。
+基于 [Hexo](https://hexo.io/) 与 [Fluid](https://hexo.fluid-dev.com/) 主题搭建的个人技术博客。
 
 - **博客地址**：[https://zbcio.github.io](https://zbcio.github.io)
 - **自动化构建**：由 GitHub Actions 驱动，代码推送到 `master` 分支后自动编译并部署至 GitHub Pages。
@@ -64,15 +64,17 @@ hexo/
 ├── .github/workflows/deploy.yml # GitHub Actions 自动化构建部署配置
 ├── .nvmrc                   # 推荐 Node.js 版本基准
 ├── _config.yml              # 站点主配置文件
+├── _config.fluid.yml        # Fluid 主题独立个性化配置文件
 ├── package.json             # 项目依赖配置
 ├── scaffolds/               # 文章生成模板
 ├── source/                  # 博客内容源文件
 │   ├── _posts/              # Markdown 文章正文
+│   ├── about/               # 个人关于页
 │   ├── categories/          # 分类页
 │   ├── tags/                # 标签页
 │   ├── images/              # 图片资源
 │   └── robots.txt           # 搜索引擎抓取规则
-└── themes/                  # 站点主题（当前启用 themes/next）
+└── themes/                  # 站点备用主题目录
 ```
 
 ---
