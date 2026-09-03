@@ -66,10 +66,6 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: fluid
 
-avatar: /images/avatar.jpg
-
-baidu_analytics: 265d38f768179f112448ec05adca1224
-
 search:
   path: search.xml
   field: post
