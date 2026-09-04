@@ -9,8 +9,8 @@ tags:
 ---
 
 ### 1、配置Tomcat
-假设要通过Nginx来访问Tomgcat下的test项目，先把Tomcat配置成默认访问test，这样我们访问http://localhost:8080时，就可以直接访问test了  
-参考：<http://zbc.io/tomcat/tomcat-path.html>  
+假设要通过Nginx来访问Tomgcat下的test项目，先把Tomcat配置成默认访问test，这样我们访问 `http://localhost:8080` 时，就可以直接访问test了  
+参考：[Tomcat项目路径配置](/cn/技术/Tomcat/tomcat-path/)  
 
 ### 2、配置Nginx
 编辑nginx下的nginx.conf文件  
