@@ -11,7 +11,7 @@ Tomcat对工程的部署一般是将工程的压缩文件放在tomcat安装目�
 
     http://localhost:8080/xx(假定为本机访问，xx是部署时的应用工程的访问名字）。
 
-而如果直接键入：http://localhost:8080出来的将是tomcat自带的欢迎页面，如何让键入http://localhost:8080出来的是自己的应用工程的页面呢？  
+而如果直接键入：`http://localhost:8080` 出来的将是tomcat自带的欢迎页面，如何让键入 `http://localhost:8080` 出来的是自己的应用工程的页面呢？  
   
 在Tomcat默认安装后，tomcat的主目录是webapps/root目录，所以如果想改变tomcat的主目录的话可以如下所做：  
 
